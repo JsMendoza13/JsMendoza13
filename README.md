@@ -1,5 +1,5 @@
 # 🪐 About Me:
-☕I'm Software development student<br>🧨I'm currently working on my own projects<br>🍀I like to be constantly learning new technologies<br>⚡I'm looking for team working<br>⚽I like horror movies, anime, and having fun with my friends
+☕I'm Software development Jr.<br>🧨I'm currently working on my own projects<br>🍀I like to be constantly learning new technologies<br>⚽I like horror movies, anime, and having fun with my friends
 
 
 ## 🌐 Socials:
