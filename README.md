@@ -1,8 +1,9 @@
 # 🪐 About Me:
-☕I'm Software development Jr.
-<br>💻Junior Developer, with outstanding participation in the creation of a data capture and reporting system for a multinational company in Colombia.
+<br>💻Junior Developer, with outstanding participation in the creation 
+<br>of a data capture and reporting system for a multinational company in Colombia.
 <br>🧨I'm currently working on my own projects.
-<br>🍀My goal is to contribute to the work environment by promoting a supportive culture and the ability to generate creative ideas.
+<br>🍀My goal is to contribute to the work environment by promoting 
+<br>a supportive culture and the ability to generate creative ideas.
 <br>⚽I like horror movies, anime, and having fun with my friends.
 
 
