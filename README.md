@@ -1,5 +1,5 @@
 <div align="center">
-✨ Socials:
+## ✨ Socials:
 <a href="https://www.linkedin.com/in/jesus-mendoza-martinez/" target="blank"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jesus-mendoza-martinez/" height="30" width="40 /></a>
                                                                                
 ---                                                                       
