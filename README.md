@@ -1,5 +1,7 @@
 ## Hi! I'm Jesus! 💻🙋🏻‍♂️
+
 ✌️I am a passionate web developer who loves challenges and refuses to give up easily! ❤️‍🔥 My constant quest for solutions demonstrates my unwavering commitment. In addition to my love for web development, I find fascination in exploring back-end development. I am always eager to dive into new technologies and learn from my peers on each project. 🪐🌤️ In every task, I give my all and a little more to achieve excellence! 🙏🧡<br/>
+
 ---
 ## ✨ Socials:    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jesus-mendoza-martinez) 
 
